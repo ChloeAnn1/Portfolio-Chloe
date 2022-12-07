@@ -1,0 +1,36 @@
+body {
+  background-color:  blanchedalmond !important;
+  overflow: auto;
+}
+
+
+
+
+.hero-image {
+  width: 100px;
+  height: auto;
+  
+}
+  
+p {
+  font-size: 20px;
+  padding: 5px;
+}
+
+.bi-envelope {
+  padding: 20px;
+
+}
+
+.major {
+  background-color: aquamarine;
+  margin-bottom: 15px;
+}
+
+.card-body {
+  background-color: aquamarine;
+}
+
+
+
+ 
