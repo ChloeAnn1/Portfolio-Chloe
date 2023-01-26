@@ -3,14 +3,18 @@ body {
   overflow: auto;
 }
 
-
-
-
-.hero-image {
-  width: 100px;
-  height: auto;
+.hero-image  {
+  border-radius: 5%;
+  width: 50%;
+  height: 38rem;
+  border-radius: 12%;
   
 }
+
+
+
+
+
   
 p {
   font-size: 20px;
